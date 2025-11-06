@@ -7,4 +7,5 @@ This repo contains the following models:
 I’ll keep adding small, reproducible notebooks as the cohort progresses:
 
 Word2Vec (CBOW)
+
 FastText
